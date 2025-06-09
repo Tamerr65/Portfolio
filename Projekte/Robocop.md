@@ -414,9 +414,9 @@ with open('train.pkl', 'wb') as f: # wb steht für write bytes, f ist as Objekt 
 
 Bei Rückfragen oder Interesse an weiteren Informationen stehe ich gerne zur Verfügung:
 
-[![Email](https://img.shields.io/badge/-lenz.nayon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenz.nayon@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-Nayon%20Lenz%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/nayon-lenz-92792530b/)  
-[![GitHub](https://img.shields.io/badge/-@Nayon0505-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayon0505)
+[![Email](https://img.shields.io/badge/-tamerhweidi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamerhweidi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Tamer%20Abu%20Hweidi%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamerhweidi/)
+[![GitHub](https://img.shields.io/badge/-@Tamerr65-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tamerr65)
 
 ---
 

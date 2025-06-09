@@ -109,9 +109,9 @@ Diese Arbeit zeigt, wie mithilfe mathematischer Optimierung und gezielter Sensit
 
 Falls Sie Fragen haben oder mehr erfahren möchten, können Sie mich gerne kontaktieren:
 
-[![Email](https://img.shields.io/badge/-lenz.nayon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white "E-Mail senden")](mailto:lenz.nayon@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-Nayon%20Lenz%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayon-lenz-92792530b/)  
-[![GitHub](https://img.shields.io/badge/-@Nayon0505-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nayon0505)
+[![Email](https://img.shields.io/badge/-tamerhweidi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamerhweidi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Tamer%20Abu%20Hweidi%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamerhweidi/)
+[![GitHub](https://img.shields.io/badge/-@Tamerr65-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tamerr65)
 
 ---
 
